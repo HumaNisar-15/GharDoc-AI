@@ -57,5 +57,5 @@ Wood and other home problems, rates for more cities, voice input, login with cit
 
 ## Team
 Huma Nisar
-Kaneez Fatima
-Amina
+, Kaneez Fatima
+, Amina
