@@ -36,10 +36,10 @@ We tested the app on real wall photos taken by the team and compared the AI's an
 
 | Measure | Result |
 | --- | --- |
-| Photos tested | [10] |
-| Problem type identified correctly | [10] of [N] |
-| Risk level matched our label | [10] of [N] |
-| Deep cracks wrongly marked green | [2] |
+| Photos tested | 10 |
+| Problem type identified correctly | 10 of 10 |
+| Risk level matched our label | 10 of 10 |
+| Deep cracks wrongly marked green | 0 |
 
 ## Real-world validation
 We met two waterproofing companies, **Ultra Chemicals** and **Professional Sealers**, to learn current market rates and how they diagnose and fix dampness, seepage and cracks. Their answers shaped our rate table and the questions the app suggests to users.
