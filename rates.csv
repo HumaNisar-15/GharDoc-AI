@@ -1,0 +1,20 @@
+id,kaam,unit,min_rs,max_rs,shehar,tareekh,sources,Materials
+R01,Seelan wali deewar ka treatment (chemical / waterproof coat),per sq ft,20,80,Lahore,15/11/26,ultra chemicals + Professional Sealers,Pro Seal
+R02,Chhat ki waterproofing / seelan ka ilaj,per sq ft,20,140,Lahore,15/11/26,ultra chemicals + Professional Sealers,Pro PU Selent
+R03,Plaster ki marammat,per sq ft,30,90,Lahore,15/11/26,ultra chemicals + Professional Sealers,Pro Powder
+R04,Hairline daraar bharna (filler / putty),per ft,40,2230,Lahore,15/11/26,ultra chemicals + Professional Sealers,Pro Repair Material
+R05,Gehri daraar ki repair (epoxy / injection - engineer ke mashwaray se),per ft,30,3000,Lahore,15/11/26,ultra chemicals + Professional Sealers,Pro PU Injection
+R06,Deewar par putty + paint,per sq ft,20,120,Lahore,,ultra chemicals + Professional Sealers,
+R07,Kamre ka mukammal paint,per room,40,140,Lahore,15/11/26,ultra chemicals + Professional Sealers,
+R08,Pipe leak ki marammat,per kaam,4000,10000,Lahore,,ultra chemicals + Professional Sealers,
+R09,Bathroom ki leakage ka hal,per kaam,20,140,Lahore,,ultra chemicals + Professional Sealers,
+R10,Pani ki tanki ki leakage,per kaam,30,850,Lahore,,ultra chemicals + Professional Sealers,
+,,,,,,,,
+R12,Mistri ki dihari,per din,2000,3000,Lahore,,ultra chemicals + Professional Sealers,
+R13,Mazdoor ki dihari,per din,1200,1800,Lahore,,ultra chemicals + Professional Sealers,
+R14,Painter ki dihari,per din,1500,3000,Lahore,,ultra chemicals + Professional Sealers,
+R15,Tile / grout ki marammat,per sq ft,30,150,Lahore,,ultra chemicals + Professional Sealers,
+R16,Plaster dobara karna (poori deewar),per sq ft,70,140,Lahore,,ultra chemicals + Professional Sealers,
+R17,Nali / drain ki leakage,per kaam,40,160,Lahore,,ultra chemicals + Professional Sealers,
+R18,Chhat ki daraar bharna,per ft,20,150,Lahore,,ultra chemicals + Professional Sealers,
+R19,Deewar ka damp proof course / injection,per ft,60,1200,Lahore,,ultra chemicals + Professional Sealers,
